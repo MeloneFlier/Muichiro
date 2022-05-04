@@ -1,1 +1,2 @@
-# Muichiro
+# Alphabet-Recognition-
+An simple python program
